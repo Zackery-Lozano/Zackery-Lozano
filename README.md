@@ -8,6 +8,7 @@ focusing on full-stack development and cloud computing.
 - Building a weather tracking application using React and Node.js
 - Contributing to open-source documentation projects
 - Developing a student resource management system
+- Developing the proper skills for WebDevelopment
 
 ### I'm currently learning
 - HTML, CSS, and JavaScript
@@ -16,7 +17,7 @@ focusing on full-stack development and cloud computing.
 
 ### Technical Skills
 - Languages: HTML, CSS, JavaScript (learning)
-- Tools: VS Code, MAMP, Git
+- Tools: VS Code, MAMP, Github
 - Concepts: Web Development, Database Design
 
 ### How to reach me
